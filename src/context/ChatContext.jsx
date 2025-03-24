@@ -1,5 +1,5 @@
 import { createContext, useContext, useEffect, useState } from "react";
-import { User } from "../../../backend/models/User";
+// import { User } from "../../../backend/models/User";
 import axios from "axios";
 import { server } from "../main";
 import toast from "react-hot-toast";
